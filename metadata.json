@@ -1,0 +1,6 @@
+{
+  "name": "DZPhone — Algerian Smartphone Store & Smart Deal-Room",
+  "description": "متجر الهواتف الذكية في الجزائر (جديد مغلق ومستعمل مفحوص X-Ray) مع دعم التقسيم الإداري 69 ولاية والدفع عند الاستلام ومساعد المبيعات الذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
